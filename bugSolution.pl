@@ -1,0 +1,1 @@
+my @array = (1, 2, 3);if (\[$array) {my $element = $array[2]; # Access the last element safelyprint "Last element: $element\n";} else {print "Array is empty\n";}
